@@ -3600,6 +3600,45 @@ input, select, textarea {
 					font-size: 1.75rem;
 					border-width: 3px !important;
 				}
+			#header {
+    height: auto;
+    min-height: 32rem;
+    padding: 7rem 1.5rem 4rem;
+}
+
+#header .logo {
+    font-size: 2.6rem;
+    line-height: 1.05;
+    letter-spacing: 0.12em;
+    border-width: 0 !important;
+    padding: 0;
+}
+
+#header p {
+    max-width: 22rem;
+    margin: 1.5rem auto 0;
+    font-size: 1.05rem;
+    line-height: 1.7;
+}
+
+#main > .post.featured {
+    padding: 4rem 1.5rem 2rem;
+}
+
+#main > .post.featured header.major {
+    margin-bottom: 2rem;
+}
+
+#main > .post.featured header.major h2 {
+    font-size: 2.4rem;
+    line-height: 1.1;
+    letter-spacing: 0.08em;
+}
+
+#main > .post.featured header.major p {
+    font-size: 1.05rem;
+    line-height: 1.6;
+}
 
 		}
 
